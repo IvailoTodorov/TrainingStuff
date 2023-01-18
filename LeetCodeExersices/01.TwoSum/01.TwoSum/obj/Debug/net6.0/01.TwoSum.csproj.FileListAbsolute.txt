@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\bin\Debug\net6.0\01.TwoSum.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\bin\Debug\net6.0\01.TwoSum.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\bin\Debug\net6.0\01.TwoSum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\bin\Debug\net6.0\01.TwoSum.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\bin\Debug\net6.0\01.TwoSum.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\refint\01.TwoSum.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\01.TwoSum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\01.TwoSum\01.TwoSum\obj\Debug\net6.0\ref\01.TwoSum.dll
