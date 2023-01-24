@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\bin\Debug\net6.0\27.RemoveElement.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\bin\Debug\net6.0\27.RemoveElement.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\bin\Debug\net6.0\27.RemoveElement.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\bin\Debug\net6.0\27.RemoveElement.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\bin\Debug\net6.0\27.RemoveElement.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\refint\27.RemoveElement.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\27.RemoveElement.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\27.RemoveElement\27.RemoveElement\obj\Debug\net6.0\ref\27.RemoveElement.dll
