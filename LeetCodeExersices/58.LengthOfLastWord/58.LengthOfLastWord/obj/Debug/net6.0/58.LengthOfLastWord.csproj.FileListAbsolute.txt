@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\bin\Debug\net6.0\58.LengthOfLastWord.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\bin\Debug\net6.0\58.LengthOfLastWord.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\bin\Debug\net6.0\58.LengthOfLastWord.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\bin\Debug\net6.0\58.LengthOfLastWord.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\bin\Debug\net6.0\58.LengthOfLastWord.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\refint\58.LengthOfLastWord.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\58.LengthOfLastWord.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\58.LengthOfLastWord\58.LengthOfLastWord\obj\Debug\net6.0\ref\58.LengthOfLastWord.dll
