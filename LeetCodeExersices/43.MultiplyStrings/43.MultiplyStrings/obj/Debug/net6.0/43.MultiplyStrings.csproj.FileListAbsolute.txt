@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\bin\Debug\net6.0\43.MultiplyStrings.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\bin\Debug\net6.0\43.MultiplyStrings.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\bin\Debug\net6.0\43.MultiplyStrings.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\bin\Debug\net6.0\43.MultiplyStrings.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\bin\Debug\net6.0\43.MultiplyStrings.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\refint\43.MultiplyStrings.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\43.MultiplyStrings.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\43.MultiplyStrings\43.MultiplyStrings\obj\Debug\net6.0\ref\43.MultiplyStrings.dll
