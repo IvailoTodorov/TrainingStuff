@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\bin\Debug\net6.0\136.SingleNumber.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\bin\Debug\net6.0\136.SingleNumber.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\bin\Debug\net6.0\136.SingleNumber.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\bin\Debug\net6.0\136.SingleNumber.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\bin\Debug\net6.0\136.SingleNumber.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\refint\136.SingleNumber.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\136.SingleNumber.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\136.SingleNumber\136.SingleNumber\obj\Debug\net6.0\ref\136.SingleNumber.dll
