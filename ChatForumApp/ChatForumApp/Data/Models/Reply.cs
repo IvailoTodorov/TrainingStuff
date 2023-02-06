@@ -11,6 +11,13 @@
         [Required]
         public string Content { get; set; }
 
+        public DateTime? CreatedOn { get; set; }
+
+        public string UserId { get; set; }
+
+        [ForeignKey("UserId")]
+        public virtual User User { get; set; }
+
         public int CommentId { get; set; }
 
         [ForeignKey("CommentId")]

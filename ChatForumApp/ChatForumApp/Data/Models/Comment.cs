@@ -11,6 +11,8 @@
         [Required]
         public string Content { get; set; }
 
+        public DateTime? CreatedOn { get; set; }
+
         public string UserId { get; set; }
 
         [ForeignKey("UserId")]
