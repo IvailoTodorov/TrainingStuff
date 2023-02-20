@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\bin\Debug\net6.0\Day1_DataTypes.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\bin\Debug\net6.0\Day1_DataTypes.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\bin\Debug\net6.0\Day1_DataTypes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\bin\Debug\net6.0\Day1_DataTypes.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\bin\Debug\net6.0\Day1_DataTypes.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\refint\Day1_DataTypes.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\Day1_DataTypes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\HackeRankExersices\Day1_DataTypes\Day1_DataTypes\obj\Debug\net6.0\ref\Day1_DataTypes.dll
