@@ -7,6 +7,15 @@
 
 <h1 class="text-success text-center">Welcome to Chat Forum</h1>
 
+@using (Html.BeginForm("PostComment", "ChatForum", FormMethod.Post))
+{
+    <input class="pull-right" style="border-radius: 6px; width: 400px; height: 35px; font-size: 18px; margin-top: 15px" 
+    type="text" name="Content" placeholder="Type new comment..."/>
+    <br />
+    <input type="submit" value="Post Comment" class="btn btn-primary pull-right" style="margin-bottom: 15px; margin-top: 10px" />
+}
+
+
 
 <table class="table text-center">
 
@@ -15,7 +24,7 @@
         <tr>
             <td>
                 <span style="margin-right: 15px; font-size: 23px; color: dodgerblue;">
-                    @comment.User.UserName:
+                    @comment.User.Nickname
                 </span>
                 <span style="font-size: 22px;">
                     @comment.Content
@@ -27,7 +36,7 @@
                 {
                     <br />
                     <span style="margin-right: 15px; font-size: 17px; color: dimgray;">
-                        @reply.User.UserName:
+                        @reply.User.Nickname
                     </span>
                     <span style="font-size: 20px;">
                         @reply.Content
@@ -39,10 +48,10 @@
                 <br />
                 @using (Html.BeginForm("PostReply", "ChatForum", FormMethod.Post))
                 {
-                <input style="border-radius: 6px; width: 400px; height: 35px; font-size: 18px" type="text" name="Content" />
-                <br />
-                <input type="hidden" name="CommentId" value="@comment.Id" />
-                <input type="submit" value="Reply" class="btn btn-primary" style="margin-top: 10px" />
+                    <input style="border-radius: 6px; width: 400px; height: 35px; font-size: 18px" type="text" name="Content" placeholder="Type reply..."/>
+                    <br />
+                    <input type="hidden" name="CommentId" value="@comment.Id" />
+                    <input type="submit" value="Reply" class="btn btn-primary" style="margin-top: 10px" />
                 }
 
             </td>
