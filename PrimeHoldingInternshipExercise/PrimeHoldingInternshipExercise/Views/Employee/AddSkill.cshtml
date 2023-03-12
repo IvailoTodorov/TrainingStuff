@@ -1,0 +1,19 @@
+﻿@model PrimeHoldingInternshipExercise.Models.EmployeeSkill.EmployeeSkillViewModel
+
+@{
+    ViewData["Title"] = "Add Skill";
+}
+
+<form asp-action="AddSkill" method="post">
+    <div class="form-group">
+        <label for="skill">Select a skill:</label>
+        <select id="skill" name="SkillId" class="form-control">
+            @foreach (var skill in Model.Skills)
+            {
+                <option value="@skill.Id">@skill.Name</option>
+            }
+        </select>
+    </div>
+    <input type="hidden" name="EmployeeId" value="@Model.EmployeeId" />
+    <button type="submit" class="btn btn-primary">Add Skill</button>
+</form>

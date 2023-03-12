@@ -1,0 +1,13 @@
+﻿@model PrimeHoldingInternshipExercise.Models.EmployeeSkill.EmployeeSkillsListingModel
+
+@{
+    ViewData["Title"] = "Show Skill";
+}
+
+<h2>@Model.Employee.FullName Skills:</h2>
+<ul>
+    @foreach (var skill in Model.Skills)
+    {
+        <li>@skill.Name</li>
+    }
+</ul>
