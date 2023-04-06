@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\bin\Debug\net7.0\1254.NumberOfClosedIslands.exe
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\bin\Debug\net7.0\1254.NumberOfClosedIslands.deps.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\bin\Debug\net7.0\1254.NumberOfClosedIslands.runtimeconfig.json
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\bin\Debug\net7.0\1254.NumberOfClosedIslands.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\bin\Debug\net7.0\1254.NumberOfClosedIslands.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\refint\1254.NumberOfClosedIslands.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.pdb
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\1254.NumberOfClosedIslands.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\LeetCodeExersices\1254.NumberOfClosedIslands\1254.NumberOfClosedIslands\obj\Debug\net7.0\ref\1254.NumberOfClosedIslands.dll

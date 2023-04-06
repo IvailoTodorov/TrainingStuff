@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hH+z3CCw34uR7HJuxwhe6d4GCZdleZCD1mPweZfCnm5WPoXHCsJo9XcmOcoqVNuakal+k1DfzWOwcexOj7Nmg==",
+  "dgSpecHash": "NMzbiBjHh7/b0BZdwR23TbdfuXjFSX5ZiVWAG6gE9OQl1g+TkDL0JB+svhiQxNlpKlZTwLDQR02hb6Kh7xXhwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\someProjectsAndRandomStuff\\Stuff\\PrimeHoldingInternshipExercise\\PrimeHoldingInternshipExercise\\PrimeHoldingInternshipExercise.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\someProjectsAndRandomStuff\\Stuff\\TrainingStuff\\PrimeHoldingInternshipExercise\\PrimeHoldingInternshipExercise\\PrimeHoldingInternshipExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

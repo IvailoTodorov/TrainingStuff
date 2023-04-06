@@ -272,3 +272,9 @@ C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForum
 C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\obj\Debug\net6.0\staticwebassets\msbuild.ChatForumApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatForumApp.props
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatForumApp.props
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatForumApp.props
+C:\Users\Lenovo\Desktop\someProjectsAndRandomStuff\Stuff\TrainingStuff\ChatForumApp\ChatForumApp\obj\Debug\net6.0\staticwebassets.pack.json
